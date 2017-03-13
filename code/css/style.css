@@ -13,7 +13,7 @@ article p.absolute-position{
     position: absolute;
     border: 3px solid yellow;
 	background-color: gray;
-	bottom:290px;
+	bottom:190px;
 }
 
 article p.fixed-position{
